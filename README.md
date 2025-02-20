@@ -1,38 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 **Event Invite - Projeto Full Stack com Next.js, React, e Tecnologias Modernas**  
 
-## Getting Started
+Este projeto foi desenvolvido com foco em componentização, validação de formulários e integração com backend, utilizando tecnologias modernas para proporcionar uma experiência fluida e eficiente ao usuário.  
 
-First, run the development server:
+---
 
+## 💻 **Tecnologias Utilizadas**  
+
+- 🟣 **Next.js** - Framework React para aplicações web modernas  
+- ⚡ **Vite + TypeScript** - Setup rápido, eficiente e com tipagem avançada  
+- 🎨 **Tailwind CSS** - Estilização moderna e responsiva  
+- ✅ **React Hook Form** - Gerenciamento de formulários no React  
+- 🛡️ **Zod** - Validações de formulários com segurança e simplicidade  
+- 🔗 **Orval** - Geração automática de cliente HTTP e tipagens para integração com backend  
+- 🌍 **Next.js Dynamic Routes** - Rotas dinâmicas para busca e cadastro de usuários  
+
+---
+
+## 🛠️ **Funcionalidades Principais**  
+
+✅ Criação da página de convite e componentes associados  
+✅ Formulário com validação em tempo real usando React Hook Form e Zod  
+✅ Integração com backend para cadastro de usuários e busca de informações  
+✅ Implementação do parâmetro `referrer` para rastrear links de inscrição  
+✅ Listagem de ranking de participantes e registro de acessos ao evento  
+
+---
+
+## 🚀 **Como Executar o Projeto Localmente**  
+
+Clone o repositório:  
+```bash
+git clone https://github.com/seu-usuario/nome-do-projeto.git
+```  
+
+Acesse o diretório do projeto:  
+```bash
+cd nome-do-projeto
+```  
+
+Instale as dependências:  
+```bash
+npm install
+# ou
+yarn install
+```  
+
+Inicie o servidor de desenvolvimento:  
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+```  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no navegador para visualizar o projeto.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-## Learn More
+## 🌍 **Deploy Online**  
 
-To learn more about Next.js, take a look at the following resources:
+O projeto está disponível em: [Link do Deploy](https://seu-projeto.vercel.app)  (Em breve)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📸 **Captura de Tela**  
 
-## Deploy on Vercel
+![Image](https://github.com/user-attachments/assets/f3adabf7-80d1-4d3c-8eb6-10d7c01a9b5c)  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🤝 **Contribuição**  
 
-## 📸 Captura de Tela
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.  
 
-![Image](https://github.com/user-attachments/assets/f3adabf7-80d1-4d3c-8eb6-10d7c01a9b5c)
+---
+
+
+
