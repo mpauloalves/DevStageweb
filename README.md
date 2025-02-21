@@ -64,7 +64,7 @@ O projeto está disponível em: [Link do Deploy](https://seu-projeto.vercel.app)
 
 ## 📸 **Captura de Tela**  
 
-![Image](https://github.com/user-attachments/assets/f3adabf7-80d1-4d3c-8eb6-10d7c01a9b5c)  
+![Image](https://github.com/user-attachments/assets/009ecd15-c5e7-4f12-b132-bfe50f9838a3)
 
 ---
 
